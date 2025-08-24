@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Yeshwin Krishnamoorthy, a Data Science and Data Analytics professional with 10+ years of work experience in India and the US. I'm looking to work on projects related to Generative AI, Natural Language Processing, Deep Learning and Machine Learning.
 <!--
 **skyeshwinn/skyeshwinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
